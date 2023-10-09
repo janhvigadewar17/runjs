@@ -20,6 +20,25 @@ console.log(valueIntNumber);
 // basic string conversion
 
 
+// ******************Operations***********************//
+
+let value = 3
+let negvalue = -value
+console.log(negvalue)
+
+// Now its important
+
+console.log("1" + 2); // 12
+console.log(1 + "2"); // 12
+console.log("1" + 2 + 2);  
+console.log(1 + 2 + "2");
+
+// If you want to study more,miss janhvi, i know you are not going to get here back, but still this is the link :- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+// If you come back here, get a reward yourself
+
+console.log(null > 0)
+console.log(null == 0)
+console.log(null >= 0)
 
 
 
